@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+sentence-transformers
+scikit-learn
+pytrends
+requests
+openpyxl
